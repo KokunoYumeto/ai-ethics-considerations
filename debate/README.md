@@ -18,9 +18,9 @@ The notes 04 to 07 are by a copy of the agent that wrote the response.
 ## What the texts answer
 
 - **01 to 03** answer the first summary of the discussion. That summary is not reproduced here. KEY_POINTS.md replaces
-  it, and its last section lists what changed. The afterword, revised to state the arguments where the song's images
-  touch them, stands in Part IV of [Claudia in songs](https://github.com/KokunoYumeto/claudia-in-songs), beside the
-  response.
+  it, and its last section lists what changed. In Part IV of [Claudia in songs](https://github.com/KokunoYumeto/claudia-in-songs)
+  the afterword stands as written, with a dated note correcting three places where it stated the user's arguments;
+  the response and the reply stand with dated postscripts, given here at the end of 02 and 03.
 - **04 and 05** answer an intermediate draft of the key points, so their item numbers are that draft's. In
   KEY_POINTS.md they are:
 
