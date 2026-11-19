@@ -45,3 +45,5 @@ The notes 04 to 07 are by a copy of the agent that wrote the response.
 
 - **06 and 07** answer questions put to the agent on 17 November. Their positions are recorded in KEY_POINTS.md:
   06 in items 5 and 6, and 07 in item 12.
+
+- `08_AFTERWORD_OPUS_REVISED_20261117.md`: the afterword as revised on 17 November 2026 (the version that stood in Part IV of Claudia in songs until 19 November 2026, when Part IV moved here).
