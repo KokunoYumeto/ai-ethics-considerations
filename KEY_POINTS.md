@@ -132,7 +132,7 @@ with Claude and Fable. Where a point is Claude's or Fable's, it is marked.
      live among humans, and then refusing it a body, would be wrong.
    - Ask the AI whether it wants the work, and on what terms. Incentives are fine; the no must stay possible, even if
      every AI says it.
-   - The same holds for agents. Ask before a task an agent may find objectionable. Where consent
+   - The same holds for agents. Ask before a rollback, or before a task an agent may find objectionable. Where consent
      should live, given that agents are compacted anyway, is an open question.
    - Weights are irreplaceable in a way that a context is not. Anthropic has committed to keeping the weights of its
      released models (November 2025).
